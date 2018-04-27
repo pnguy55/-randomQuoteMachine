@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/pnguy55/pen/NMNJZP.
-
- 
+Phi Nguyen's take on a random quote machine, v1. Overhaul with react coming soon.
